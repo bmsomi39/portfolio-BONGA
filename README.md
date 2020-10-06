@@ -1,2 +1,2 @@
 # portfolio-BONGA
- website
+ This is my personal website
